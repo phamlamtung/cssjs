@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://chuyennhacuongthinh.com' target='_blank'><img src='http://chuyennhacuongthinh.com/wp-content/uploads/2015/09/chuy%C3%AAn-van-ph%C3%B2ng-tron-goi-430x400.jpg' width='500px'/>Dịch vụ chuyển nhầ</a>. Liên hệ Cường Thịnh 0933523529. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://1.bp.blogspot.com/-HvKV2kz_EW8/VoD9nqfYOCI/AAAAAAAABgs/4puN9dXSQAM/s1600/lo%2Bgo%2Bc%25C6%25B0%25C6%25A1ng%2Bth%25E1%25BB%258Bnh.png' width='500px'/>Dịch vụ chuyển nhầ</a>. Liên hệ Cường Thịnh 0933523529. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
